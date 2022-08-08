@@ -1,0 +1,48 @@
+
+nav li
+{
+display: inline;
+text-align: center;
+padding-left:25px;
+padding-right:25px;
+margin-right:100px;
+margin-left: 100px;
+}
+a:visited
+{color:blueviolet;}
+h1
+{
+    font-weight: 200px;
+    text-align: center;
+    color: navy;
+    font-style: italic;
+}
+#Intro
+{
+text-align: center;   
+font-style: italic;
+text-decoration: underline overline gray;}
+h2
+{
+    font-weight: 50px;
+    text-align: center;
+   border: solid navy 1px ;
+   background-color:azure;
+}
+img {
+    border-radius: 50%;
+    width: 40%;
+    display: block;
+    margin: auto;
+  }
+  #About table,#About td, #About th {
+    border: 2px solid navy;
+   text-align: center;
+  }
+  #About table
+  {margin-left: 40%;}
+  #Work li
+  {  list-style: square;};
+
+  #Contact p, #Contact form
+  {text-align: center;}
